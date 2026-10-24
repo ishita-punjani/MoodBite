@@ -1,0 +1,51 @@
+id,name,area,address,lat,lng,cuisine,price_level,is_open,coords_verified
+r001,Leopold Cafe,Colaba,"Colaba Causeway, Colaba, Mumbai",18.92303320159086,72.83160152698616,cafe|continental,3,true,true
+r002,Bademiya,Colaba,"Tulloch Road, behind Taj Mahal Palace, Colaba, Mumbai",18.92344901079412,72.83252259521485,mughlai|street food,2,true,true
+r003,Kailash Parbat,Colaba,"Colaba Causeway, Colaba, Mumbai",18.918856168867364,72.82857520870785,street food|sindhi|sweets,2,true,true
+r004,Ling's Pavilion,Colaba,"Mahakavi Bhushan Marg, Colaba, Mumbai",18.923990201734906,72.83238867987231,chinese,3,true,true
+r005,Theobroma,Colaba,"Colaba Causeway, Colaba, Mumbai",18.919449214353204,72.82920228172172,desserts|bakery|cafe,2,true,true
+r006,Britannia & Co.,Fort,"Wakefield House, Ballard Estate, Fort, Mumbai",18.934801792893804, 72.84036226822903,parsi|irani,2,true,true
+r007,Yazdani Bakery,Fort,"Cawasji Patel Street, Fort, Mumbai",18.933454791534007, 72.83354346453002,bakery|irani,1,true,true
+r008,Trishna,Fort,"Sai Baba Marg, Kala Ghoda, Fort, Mumbai",18.92884300391012, 72.8323820375438,seafood,4,true,true
+r009,Mahesh Lunch Home,Fort,"Cawasji Patel Street, Fort, Mumbai",18.934090393979236, 72.83364694652244,seafood|mangalorean,3,true,true
+r010,Khyber,Fort,"Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai",18.928636190940562, 72.83161656249221,north indian|mughlai,4,true,true
+r011,Burma Burma,Fort,"Kala Ghoda, Fort, Mumbai",18.92981223491662, 72.83198676434212,burmese|asian,3,true,true
+r012,Pancham Puriwala,Fort,"Opposite CSMT, Fort, Mumbai",18.938435423804293, 72.83567833550251,north indian|street food,1,true,true
+r013,Pizza By The Bay,Churchgate,"Marine Drive, Churchgate, Mumbai",18.93365028315024, 72.82386600667448,italian,3,true,true
+r014,Hotel Status,Churchgate,"Nariman Point, Churchgate, Mumbai",18.924839301201562, 72.82166869320388,south indian|north indian,2,true,true
+r015,Kyani & Co.,Girgaon,"Jagannath Shankarseth Marg, Dhobi Talao, Mumbai",18.94431107118919, 72.82879557971557,irani|bakery,1,true,true
+r016,Shree Thaker Bhojanalay,Girgaon,"Kalbadevi Road, Mumbai",18.951384908378127, 72.8283349931509,gujarati|thali,2,true,true
+r017,Soam,Girgaon,"Babulnath Road, Girgaon Chowpatty, Mumbai",18.9576130521883, 72.80891387779559,gujarati|street food,2,true,true
+r018,Jaffer Bhai's Delhi Darbar,Girgaon,"Grant Road, Mumbai",18.96329014325353, 72.82455115561714,mughlai|biryani,2,true,true
+r019,Swati Snacks,Tardeo,"Tardeo Road, Tardeo, Mumbai",18.966832739002523, 72.81342227968338,gujarati|street food,2,true,true
+r020,Sardar Pav Bhaji,Tardeo,"Tardeo Junction, Tardeo, Mumbai",18.969971088371093, 72.81499165083362,street food,1,true,true
+r021,Haji Ali Juice Centre,Tardeo,"Lala Lajpatrai Marg, Haji Ali, Mumbai",18.978554657164803, 72.81115967969292,juices|desserts,1,true,true
+r022,Noor Mohammadi Hotel,Byculla,"Bhendi Bazaar, Mumbai",18.963989734843814,72.83115835684599,mughlai,1,true,true
+r023,Persian Darbar,Byculla,"Byculla, Mumbai",18.976425972916704,72.83371869310174,mughlai|biryani,2,true,true
+r024,The Bombay Canteen,Lower Parel,"Kamala Mills, Lower Parel, Mumbai",19.003523962935844, 72.82751699133485,modern indian,4,true,true
+r025,Cafe Zoe,Lower Parel,"Mathuradas Mills, Lower Parel, Mumbai",18.995300,72.830000,cafe|european,3,true,false
+r026,Copper Chimney,Worli,"Dr Annie Besant Road, Worli, Mumbai",18.98850421793511, 72.81417576437286,north indian|mughlai,3,true,true
+r027,Prakash Shakahari Upahar Kendra,Dadar,"Gokhale Road, Dadar, Mumbai",19.02354768621333, 72.83876375086189,maharashtrian,1,true,true
+r028,Aaswad,Dadar,"Gokhale Road, Dadar West, Mumbai",19.025805009345564, 72.84034999406104,maharashtrian,1,true,true
+r029,Mama Kane,Dadar,"Near Dadar Station, Dadar West, Mumbai",19.017800,72.847800,maharashtrian,1,true,false
+r030,Cafe Madras,Matunga,"King's Circle, Matunga, Mumbai",19.027858651590762, 72.85503613551613,south indian,1,true,true
+r031,Ram Ashraya,Matunga,"Bhandarkar Road, Matunga East, Mumbai",19.028175193750457, 72.851751449019,south indian,1,true,true
+r032,Guru Kripa,Sion,"Sion Road, Sion, Mumbai",19.039000,72.861900,street food|north indian,1,true,false
+r033,Goa Portuguesa,Mahim,"Kataria Road, Mahim, Mumbai",19.032020233752828, 72.84021690667605,goan|seafood,3,true,true
+r034,Candies,Bandra West,"Mehboob Studio Road, Bandra West, Mumbai",19.061168034440787,72.8270006259032,cafe|bakery,2,true,true
+r035,Elco Pani Puri Centre,Bandra West,"Hill Road, Bandra West, Mumbai",19.056331549196283,72.83336603031155,street food,1,true,true
+r036,Hearsch Bakery,Bandra West,"Hill Road, Bandra West, Mumbai",19.055443523680587,72.82698965103991,bakery|desserts,1,true,true
+r037,Pali Village Cafe,Bandra West,"Pali Village, Bandra West, Mumbai",19.059600,72.829500,european|cafe,3,true,false
+r038,Lucky Restaurant,Bandra West,"S V Road, Bandra West, Mumbai",19.054057231922116, 72.83768376436939,mughlai|biryani,2,true,true
+r039,Highway Gomantak,Bandra East,"Western Express Highway, Bandra East, Mumbai",19.056925405602247, 72.84701113551105,malvani|seafood,2,true,true
+r040,Out of the Blue,Khar,"Union Park, Khar West, Mumbai",19.07208040786029, 72.82543206436277,continental|italian,3,true,true
+r041,Gajalee,Vile Parle,"Hanuman Road, Vile Parle East, Mumbai",19.1040751901608, 72.85168150852945,seafood|malvani,3,true,true
+r042,Natural Ice Cream,Juhu,"Juhu Tara Road, Juhu, Mumbai",19.107500,72.826300,desserts|ice cream,1,true,false
+r043,Prithvi Cafe,Juhu,"Prithvi Theatre, Juhu Church Road, Juhu, Mumbai",19.106347163107905, 72.82572549318421,cafe|north indian,2,true,true
+r044,Leaping Windows,Andheri West,"Yari Road, Versova, Andheri West, Mumbai",19.13892321267038, 72.81348167966868,cafe,2,true,true
+r045,Mainland China,Andheri East,"Andheri East, Mumbai",19.1049198891518, 72.88666133550856,chinese,3,true,true
+r046,Mirchi and Mime,Powai,"Hiranandani Gardens, Powai, Mumbai",19.117600,72.906000,modern indian|north indian,3,true,false
+r047,Shiv Sagar,Ghatkopar,"Ghatkopar, Mumbai",19.086000,72.908100,street food|south indian|fast food,2,true,false
+r048,Jhama Sweets,Chembur,"Chembur Camp, Chembur, Mumbai",19.055530543735028, 72.89051369404069,sweets|street food,1,true,true
+r049,Jumboking,Malad,"Malad West, Mumbai",19.17742249391153, 72.84557420801733,street food|fast food,1,true,true
+r050,Barbeque Nation,Borivali,"Borivali West, Mumbai",19.230700,72.856700,barbeque|north indian,3,true,false

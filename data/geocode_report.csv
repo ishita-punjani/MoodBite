@@ -1,0 +1,51 @@
+id,name,area,coords_verified,query,osm_display_name,km_from_area_centre,osm_link,closest_candidate,note
+r001,Leopold Cafe,Colaba,true,"Leopold Cafe, Colaba, Mumbai","Cafe Leopold, Nowroji Ferdonji Street, Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",2.53,https://www.openstreetmap.org/way/40387597,,
+r002,Bademiya,Colaba,true,"Bademiya, Colaba, Mumbai","Bademiya Restaurant, 19-A, Nowroji Ferdonji Street, Apollo Bandar, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",2.50,https://www.openstreetmap.org/node/3408261570,,
+r003,Kailash Parbat,Colaba,true,"Kailash Parbat, Colaba, Mumbai","Kailash Parbat, First Pasta Lane, Shiv Shakti Nagar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",1.97,https://www.openstreetmap.org/node/1973521830,,
+r004,Ling's Pavilion,Colaba,true,"Ling's Pavilion, Colaba, Mumbai","Ling's Pavilion, 19/21, Mahakavi Bhushan Road (Lansdowne Road), Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",2.65,https://www.openstreetmap.org/node/5300321221,,
+r005,Theobroma,Colaba,true,"Theobroma, Colaba, Mumbai","Theobroma, Nanabhai Moos Marg (Upper Colaba Road), Shiv Shakti Nagar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",2.07,https://www.openstreetmap.org/node/1544430251,,
+r006,Britannia & Co.,Fort,true,"Britannia & Co., Fort, Mumbai","Britannia & Co. Restaurant, 11, Shiv Sagar Ram Gulam Marg, Ballard Estate, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400038, India",0.65,https://www.openstreetmap.org/node/4294810192,,
+r007,Yazdani Bakery,Fort,true,"Yazdani Bakery, Fort, Mumbai","Yazdani Bakery, Cawasji Patel Street, Bora Bazaar, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",0.16,https://www.openstreetmap.org/node/14100628923,,
+r008,Trishna,Fort,true,"Trishna, Fort, Mumbai","Trishna, Rope Walk Street, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400032, India",0.46,https://www.openstreetmap.org/node/858938542,,
+r009,Mahesh Lunch Home,Fort,true,"Mahesh Lunch Home, Fort, Mumbai","Mahesh Lunch Home, Cawasji Patel Street, Bora Bazaar, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",0.23,https://www.openstreetmap.org/node/662459670,,
+r010,Khyber,Fort,true,"Khyber, Fort, Mumbai","Khyber, Kaikhushru Dubash Marg, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",0.54,https://www.openstreetmap.org/node/11964902109,,
+r011,Burma Burma,Fort,false,,,,,'Burma Burma' (restaurant) 22.2 km from area centre: https://www.openstreetmap.org/node/14039202220,"area centroid used; 1 results, none matched"
+r012,Pancham Puriwala,Fort,true,"Pancham Puriwala, Fort, Mumbai","Pancham Puriwala, Perin Nariman Street, Bora Bazaar, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400038, India",0.68,https://www.openstreetmap.org/node/6155507386,,
+r013,Pizza By The Bay,Churchgate,true,"Pizza By The Bay, Churchgate, Mumbai","Pizza By The Bay, 143 Soona Mahal, Veer Nariman Road, Churchgate, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400020, India",0.29,https://www.openstreetmap.org/node/4678083190,,
+r014,Hotel Status,Churchgate,false,,,,,,"area centroid used; 0 results, none matched"
+r015,Kyani & Co.,Girgaon,true,"Kyani & Co., Mumbai","Kyani & Co., 657, Jagannath Shankarsheth Marg, Navjeevan Wadi, Kalbadevi, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400020, India",1.73,https://www.openstreetmap.org/node/9574663630,,
+r016,Shree Thaker Bhojanalay,Girgaon,true,"Shree Thaker Bhojanalay, Mumbai","Shree Thaker Bhojanalay, Dadiseth Agyari Lane, Navi Wadi, Kalbadevi, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400002, India",1.26,https://www.openstreetmap.org/node/4658636589,,
+r017,Soam,Girgaon,true,"Soam, Mumbai","Soam Restaurant, Kulpati KM Munshi Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India",0.89,https://www.openstreetmap.org/node/6494986078,,
+r018,Jaffer Bhai's Delhi Darbar,Girgaon,false,,,,,,"area centroid used; 0 results, none matched"
+r019,Swati Snacks,Tardeo,true,"Swati Snacks, Tardeo, Mumbai","Swati snacks, Javji Dadaji Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400007, India",0.40,https://www.openstreetmap.org/node/4657376591,,
+r020,Sardar Pav Bhaji,Tardeo,false,,,,,,"area centroid used; 0 results, none matched"
+r021,Haji Ali Juice Centre,Tardeo,false,,,,,'Haji Ali Juice Centre' (ice_cream) 10.8 km from area centre: https://www.openstreetmap.org/node/11298645303,"area centroid used; 1 results, none matched"
+r022,Noor Mohammadi Hotel,Byculla,true,"Noor Mohammadi Hotel, Mumbai","Noor Mohammadi Hotel, J.J. Flyover, Khadak, Dongri, B Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400003, India",2.36,https://www.openstreetmap.org/node/5221682037,,
+r023,Persian Darbar,Byculla,false,,,,,'Persian Darbar' (restaurant) 9.0 km from area centre: https://www.openstreetmap.org/node/12853058852,"area centroid used; 3 results, none matched"
+r024,The Bombay Canteen,Lower Parel,true,"The Bombay Canteen, Lower Parel, Mumbai","The Bombay Canteen, Senapati Bapat Marg, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",0.92,https://www.openstreetmap.org/node/5664893622,,
+r025,Cafe Zoe,Lower Parel,false,,,,,,"area centroid used; 0 results, none matched"
+r026,Copper Chimney,Worli,false,,,,,'Copper Chimney' (restaurant) 5.3 km from area centre: https://www.openstreetmap.org/node/12926036241,"area centroid used; 3 results, none matched"
+r027,Prakash Shakahari Upahar Kendra,Dadar,false,,,,,,"area centroid used; 0 results, none matched"
+r028,Aaswad,Dadar,true,"Aaswad, Dadar, Mumbai","Aaswad, Lady Jamshedji Road, Rao Wadi, Matunga West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",1.16,https://www.openstreetmap.org/node/4705646991,,
+r029,Mama Kane,Dadar,false,,,,,,"area centroid used; 0 results, none matched"
+r030,Cafe Madras,Matunga,true,"Cafe Madras, Matunga, Mumbai","Cafe Madras, Bhau Daji Road, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400019, India",0.02,https://www.openstreetmap.org/node/1977933168,,
+r031,Ram Ashraya,Matunga,false,,,,,,"area centroid used; 0 results, none matched"
+r032,Guru Kripa,Sion,false,,,,,,"area centroid used; 1 results, none matched"
+r033,Goa Portuguesa,Mahim,true,"Goa Portuguesa, Mumbai","Goa Portuguesa, Takandas H. Kataria Marg, Rao Wadi, Matunga West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",1.03,https://www.openstreetmap.org/way/40739096,,
+r034,Candies,Bandra West,true,"Candies, Bandra West, Mumbai","Candies, Nityanand Street, Vaidya Nagar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",1.12,https://www.openstreetmap.org/node/5246971908,,
+r035,Elco Pani Puri Centre,Bandra West,false,,,,,,"area centroid used; 0 results, none matched"
+r036,Hearsch Bakery,Bandra West,false,,,,,'J Hearsch and Co' (bakery) 0.6 km from area centre: https://www.openstreetmap.org/node/347146089,"area centroid used; 1 results, none matched"
+r037,Pali Village Cafe,Bandra West,false,,,,,,"area centroid used; 0 results, none matched"
+r038,Lucky Restaurant,Bandra West,true,"Lucky Restaurant, Bandra West, Mumbai","Lucky, Swami Vivekanand Road, Qureshi Nagar Hutment Colony, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",1.07,https://www.openstreetmap.org/node/10781543267,,
+r039,Highway Gomantak,Bandra East,true,"Highway Gomantak, Bandra East, Mumbai","Highway Gomantak, Service Road, Gandhi Nagar, Kherwadi, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",0.48,https://www.openstreetmap.org/node/4659828293,,
+r040,Out of the Blue,Khar,true,"Out of the Blue, Khar, Mumbai","Out of the Blue, Khau Galli, Union Park, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400052, India",1.23,https://www.openstreetmap.org/node/2180954109,,
+r041,Gajalee,Vile Parle,false,,,,,,"area centroid used; 0 results, none matched"
+r042,Natural Ice Cream,Juhu,false,,,,,'Natural ice cream' (ice_cream) 13.4 km from area centre: https://www.openstreetmap.org/node/11055217026,"area centroid used; 1 results, none matched"
+r043,Prithvi Cafe,Juhu,true,"Prithvi Cafe, Mumbai","Prithvi Café, 20, Junki Kutir, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400049, India",0.16,https://www.openstreetmap.org/node/2391804809,,
+r044,Leaping Windows,Andheri West,true,"Leaping Windows, Mumbai","Leaping Windows, Joy Mukherjee Marg, Mangal Nagar, Sunder Wadi, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400061, India",1.72,https://www.openstreetmap.org/node/11020617146,,
+r045,Mainland China,Andheri East,false,,,,,'Mainland China' (restaurant) 5.0 km from area centre: https://www.openstreetmap.org/node/2126250492,"area centroid used; 1 results, none matched"
+r046,Mirchi and Mime,Powai,false,,,,,,"area centroid used; 0 results, none matched"
+r047,Shiv Sagar,Ghatkopar,false,,,,,'Shiv Sagar' (restaurant) 3.9 km from area centre: https://www.openstreetmap.org/node/3216970890,"area centroid used; 5 results, none matched"
+r048,Jhama Sweets,Chembur,true,"Jhama Sweets, Chembur, Mumbai","Jhama Sweets, Choitram Gidwani Marg (Kolwada Borla Road), Navjivan Society, Chembur, Deonar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400074, India",1.00,https://www.openstreetmap.org/node/12176162197,,
+r049,Jumboking,Malad,false,,,,,,"area centroid used; 0 results, none matched"
+r050,Barbeque Nation,Borivali,false,,,,,,"area centroid used; 0 results, none matched"

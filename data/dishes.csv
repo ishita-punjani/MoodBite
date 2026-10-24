@@ -1,0 +1,356 @@
+id,restaurant_id,name,description,price_inr,is_veg,category
+d001,r001,Fish and Chips,Beer-battered basa with chips and tartare sauce,550,false,main
+d002,r001,Classic Chicken Burger,"Crumb-fried chicken patty, lettuce, mayo and fries",440,false,snack
+d003,r001,Veg Club Sandwich,"Triple-decker with veggies, cheese and mint chutney, with fries",350,true,snack
+d004,r001,Chilli Cheese Toast,Toasted bread with melted cheese and green chilli,260,true,snack
+d005,r001,Chicken Steak Sizzler,Grilled chicken steak on a sizzling plate with rice and veggies,750,false,main
+d006,r001,Cold Coffee with Ice Cream,Thick blended coffee topped with vanilla ice cream,260,true,beverage
+d007,r001,Fresh Lime Soda,Sweet or salted lime soda,140,true,beverage
+d008,r002,Mutton Seekh Kebab,Minced mutton skewers with mint chutney,380,false,starter
+d009,r002,Chicken Tikka,Boneless chicken chargrilled in the tandoor,360,false,starter
+d010,r002,Chicken Baida Roti,Flaky roti stuffed with spiced chicken mince and egg,220,false,street_food
+d011,r002,Chicken Tikka Roll,Chicken tikka wrapped in a rumali roti with onions,180,false,street_food
+d012,r002,Paneer Tikka,Chargrilled paneer cubes marinated in spiced yoghurt,320,true,starter
+d013,r002,Paneer Kathi Roll,Spiced paneer wrapped in a flaky paratha,160,true,street_food
+d014,r003,Pani Puri,Crisp puris with tangy mint water and potato,60,true,street_food
+d015,r003,Ragda Pattice,Potato patties in white pea curry with chutneys,120,true,street_food
+d016,r003,Samosa Chaat,"Crushed samosa with chole, curd and chutneys",90,true,street_food
+d017,r003,Dal Pakwan,Sindhi breakfast of crisp pakwan with chana dal,160,true,breakfast
+d018,r003,Chole Bhature,Spicy chickpea curry with fluffy fried bhature,200,true,main
+d019,r003,Malai Kulfi,Traditional slow-set milk ice cream with pistachio,140,true,dessert
+d020,r003,Sweet Lassi,Thick chilled yoghurt drink,100,true,beverage
+d021,r004,Crystal Veg Dim Sum,Translucent dumplings filled with vegetables,460,true,starter
+d022,r004,Prawn Har Gow,Steamed prawn dumplings,610,false,starter
+d023,r004,Kung Pao Chicken,Chicken with peanuts and dried chillies,610,false,main
+d024,r004,Roast Duck Pancakes,"Crisp roast duck with pancakes, cucumber and hoisin",1380,false,main
+d025,r004,Hot and Sour Soup,"Peppery, tangy vegetable soup",290,true,starter
+d026,r004,Stir-fried Greens in Garlic,Seasonal greens tossed with garlic,410,true,main
+d027,r004,Honey Noodles with Ice Cream,Crisp noodles in honey and sesame with vanilla ice cream,320,true,dessert
+d028,r005,Walnut Brownie,Fudgy chocolate brownie with walnuts,150,true,dessert
+d029,r005,Chocolate Truffle Pastry,Layers of chocolate sponge and ganache,180,true,dessert
+d030,r005,Red Velvet Pastry,Red velvet sponge with cream-cheese frosting,200,true,dessert
+d031,r005,Butter Croissant,Flaky all-butter croissant,160,true,bakery
+d032,r005,Blueberry Cheesecake,Baked cheesecake with blueberry compote,280,true,dessert
+d033,r005,Cappuccino,Espresso with steamed milk and foam,160,true,beverage
+d034,r005,Hot Chocolate,Rich cocoa with steamed milk and whipped cream,200,true,beverage
+d035,r006,Chicken Berry Pulao,"Fragrant rice with chicken, fried onions and tangy barberries",450,false,rice
+d036,r006,Veg Berry Pulao,"Fragrant rice with veggies, paneer and barberries",380,true,rice
+d037,r006,Mutton Salli Boti,Sweet-sour mutton curry topped with crisp potato straws,480,false,main
+d038,r006,Mutton Dhansak,Mutton in a lentil and vegetable gravy with brown rice,450,false,main
+d039,r006,Patra ni Machhi,Pomfret steamed in banana leaf with green chutney,480,false,seafood
+d040,r006,Caramel Custard,Baked custard with a soft caramel top,160,true,dessert
+d041,r006,Raspberry Soda,Fizzy sweet raspberry soda,80,true,beverage
+d042,r007,Bun Maska,Soft bun with a generous layer of butter,40,true,bakery
+d043,r007,Brun Maska with Chai,Crusty brun with butter and a cup of Irani chai,70,true,bakery
+d044,r007,Mawa Cake,Dense cardamom-scented milk cake,60,true,bakery
+d045,r007,Apple Pie,Flaky pastry filled with cinnamon apples,100,true,bakery
+d046,r007,Veg Puff,Flaky puff pastry with spiced vegetables,30,true,bakery
+d047,r007,Chicken Puff,Flaky puff pastry with spiced chicken,40,false,bakery
+d048,r008,Butter Garlic Crab,"Whole crab tossed in butter, garlic and pepper",2310,false,seafood
+d049,r008,Prawns Koliwada,Crisp batter-fried prawns Koli style,880,false,seafood
+d050,r008,Rava Pomfret Fry,Whole pomfret in spiced semolina crust,1090,false,seafood
+d051,r008,Grilled Basa with Lemon Butter,Grilled fish fillet with lemon butter sauce and greens,970,false,seafood
+d052,r008,Goan Prawn Curry Rice,Prawns in a tangy coconut curry with rice,940,false,seafood
+d053,r008,Fish Curry Rice,Homestyle coconut fish curry with steamed rice,670,false,seafood
+d054,r008,Phirni,"Chilled ground-rice pudding with cardamom, set in clay pots",290,true,dessert
+d055,r009,Prawn Gassi with Neer Dosa,Mangalorean coconut prawn curry with neer dosa,700,false,seafood
+d056,r009,Chicken Ghee Roast,Mangalorean chicken roasted in ghee and red chillies,610,false,main
+d057,r009,Kori Rotti,Mangalorean chicken curry poured over crisp rice wafers,580,false,main
+d058,r009,Bombil Fry,Bombay duck coated in semolina and fried crisp,410,false,seafood
+d059,r009,Neer Dosa,"Soft, lacy rice crepes with coconut chutney",170,true,south_indian
+d060,r009,Sol Kadhi,Cooling kokum and coconut milk drink,120,true,beverage
+d061,r009,Tandoori Prawns,Jumbo prawns marinated and chargrilled,750,false,seafood
+d062,r010,Raan Masaledar,Whole leg of lamb marinated overnight and roasted (serves 2-3),2310,false,main
+d063,r010,Galouti Kebab,Melt-in-the-mouth mutton kebabs on saffron sheermal,970,false,starter
+d064,r010,Butter Chicken,Tandoori chicken in a buttery tomato gravy,880,false,main
+d065,r010,Dal Makhani,Black lentils slow-cooked with butter and cream,670,true,main
+d066,r010,Paneer Butter Masala,Paneer in a rich tomato and cashew gravy,710,true,main
+d067,r010,Garlic Naan,Naan topped with garlic and coriander,190,true,bread
+d068,r010,Shahi Tukda,Fried bread soaked in syrup and topped with rabdi,380,true,dessert
+d069,r010,Phirni,"Chilled ground-rice pudding with cardamom, set in clay pots",290,true,dessert
+d070,r011,Veg Khow Suey,Coconut curry noodles with crunchy toppings,650,true,rice
+d071,r011,Tea Leaf Salad,Burmese fermented tea leaves with crunchy beans and nuts,490,true,salad
+d072,r011,Burmese Samosa Soup,Samosas dunked in a tangy lentil broth,440,true,starter
+d073,r011,Crystal Veg Dim Sum,Translucent dumplings filled with vegetables,460,true,starter
+d074,r011,Avocado Ice Cream,Creamy avocado ice cream with honey,380,true,dessert
+d075,r011,Lemon Iced Tea,Chilled black tea with lemon and mint,220,true,beverage
+d076,r012,Puri Bhaji,Puffed puris with spiced potato bhaji,100,true,main
+d077,r012,Chole Bhature,Spicy chickpea curry with fluffy fried bhature,150,true,main
+d078,r012,Aloo Paratha with Curd,"Potato-stuffed paratha with butter, curd and pickle",110,true,breakfast
+d079,r012,Dal Khichdi,Soft rice and moong dal with ghee and papad,160,true,main
+d080,r012,Sweet Lassi,Thick chilled yoghurt drink,80,true,beverage
+d081,r012,Gulab Jamun (2 pcs),Warm milk dumplings in rose syrup,60,true,dessert
+d082,r013,Margherita Pizza,"Thin crust with tomato, mozzarella and basil",550,true,pizza_pasta
+d083,r013,Chicken Pepperoni Pizza,Thin crust loaded with chicken pepperoni and mozzarella,670,false,pizza_pasta
+d084,r013,Penne Alfredo,Penne in a creamy parmesan white sauce,520,true,pizza_pasta
+d085,r013,Spaghetti Arrabbiata,Spaghetti in a spicy tomato and garlic sauce,490,true,pizza_pasta
+d086,r013,Vegetable Lasagne,"Layered pasta with roasted veggies, tomato and bechamel",610,true,pizza_pasta
+d087,r013,Tiramisu,Coffee-soaked sponge layered with mascarpone cream,460,true,dessert
+d088,r013,Loaded Nachos,"Corn chips with beans, cheese sauce, salsa and jalapenos",440,true,starter
+d089,r013,Lemon Iced Tea,Chilled black tea with lemon and mint,220,true,beverage
+d090,r014,Masala Dosa,"Crisp dosa with potato masala, sambar and chutney",120,true,south_indian
+d091,r014,Idli Sambar,Steamed rice cakes with sambar and coconut chutney,80,true,south_indian
+d092,r014,Onion Uttapam,Thick rice pancake topped with onion and chilli,130,true,south_indian
+d093,r014,Pav Bhaji,Buttery mashed vegetable curry with toasted pav,160,true,street_food
+d094,r014,Dal Khichdi,Soft rice and moong dal with ghee and papad,220,true,main
+d095,r014,Filter Coffee,Strong South Indian coffee with frothy milk,50,true,beverage
+d096,r014,Rasam Rice,Peppery tomato rasam with steamed rice,130,true,rice
+d097,r015,Bun Maska,Soft bun with a generous layer of butter,40,true,bakery
+d098,r015,Akuri on Toast,Parsi-style spiced scrambled eggs on buttered toast,160,false,breakfast
+d099,r015,Kheema Pav,Spiced minced mutton with buttered pav,160,false,main
+d100,r015,Egg Kejriwal,Cheese toast topped with a fried egg and green chilli,150,false,breakfast
+d101,r015,Mawa Cake,Dense cardamom-scented milk cake,60,true,bakery
+d102,r015,Masala Chai,Milky tea brewed with ginger and cardamom,40,true,beverage
+d103,r015,Raspberry Soda,Fizzy sweet raspberry soda,60,true,beverage
+d104,r016,Gujarati Thali (Unlimited),"Farsan, shaak, dal, kadhi, rotli, rice and sweet",450,true,thali
+d105,r016,Kadhi Khichdi,Soft khichdi with sweet-tangy Gujarati kadhi,220,true,main
+d106,r016,Aamras Puri,Fresh Alphonso mango pulp with hot puris,260,true,main
+d107,r016,Kesar Shrikhand,Strained yoghurt sweetened with saffron and cardamom,120,true,dessert
+d108,r016,Khaman Dhokla,"Steamed, spongy gram-flour cake with chutney",120,true,snack
+d109,r016,Masala Chaas,Spiced buttermilk with roasted cumin,60,true,beverage
+d110,r017,Panki,Thin rice-batter pancakes steamed in banana leaf,180,true,snack
+d111,r017,Handvo,Savoury baked lentil and rice cake with sesame,160,true,snack
+d112,r017,Dal Dhokli,Wheat dumplings simmered in sweet-tangy dal,200,true,main
+d113,r017,Undhiyu with Puri,Winter mixed-vegetable speciality with puris,320,true,main
+d114,r017,Sev Puri,"Flat puris topped with potato, chutneys and sev",80,true,street_food
+d115,r017,Methi Thepla with Chunda,Fenugreek flatbreads with sweet mango pickle,140,true,breakfast
+d116,r017,Masala Chaas,Spiced buttermilk with roasted cumin,60,true,beverage
+d117,r018,Chicken Dum Biryani,Slow-cooked rice and chicken with saffron and fried onions,380,false,rice
+d118,r018,Mutton Biryani,Layered rice and tender mutton cooked dum style,460,false,rice
+d119,r018,Chicken Changezi,"Chicken in a rich, smoky Old Delhi style gravy",420,false,main
+d120,r018,Butter Chicken,Tandoori chicken in a buttery tomato gravy,420,false,main
+d121,r018,Mutton Seekh Kebab,Minced mutton skewers with mint chutney,380,false,starter
+d122,r018,Butter Naan,Tandoor-baked naan brushed with butter,70,true,bread
+d123,r018,Phirni,"Chilled ground-rice pudding with cardamom, set in clay pots",140,true,dessert
+d124,r019,Panki,Thin rice-batter pancakes steamed in banana leaf,180,true,snack
+d125,r019,Dahi Puri,"Puris filled with potato, sweet curd and chutneys",90,true,street_food
+d126,r019,Sev Puri,"Flat puris topped with potato, chutneys and sev",80,true,street_food
+d127,r019,Kadhi Khichdi,Soft khichdi with sweet-tangy Gujarati kadhi,220,true,main
+d128,r019,Khaman Dhokla,"Steamed, spongy gram-flour cake with chutney",120,true,snack
+d129,r019,Aamras Puri,Fresh Alphonso mango pulp with hot puris,260,true,main
+d130,r019,Kesar Shrikhand,Strained yoghurt sweetened with saffron and cardamom,120,true,dessert
+d131,r020,Pav Bhaji,Buttery mashed vegetable curry with toasted pav,120,true,street_food
+d132,r020,Cheese Pav Bhaji,Pav bhaji topped with grated cheese,150,true,street_food
+d133,r020,Tawa Pulao,Rice tossed with pav bhaji masala and veggies on the tawa,120,true,rice
+d134,r020,Masala Chaas,Spiced buttermilk with roasted cumin,40,true,beverage
+d135,r020,Veg Frankie,Spiced potato roll with tangy masala and onions,60,true,street_food
+d136,r020,Sweet Lassi,Thick chilled yoghurt drink,80,true,beverage
+d137,r021,Sitaphal Cream,Custard apple pulp folded into fresh cream,160,true,dessert
+d138,r021,Mango Cream,Alphonso mango chunks in fresh cream,180,true,dessert
+d139,r021,Strawberry Cream,Fresh strawberries with cream,160,true,dessert
+d140,r021,Fruit Salad with Cream,Seasonal fruits with fresh cream,150,true,dessert
+d141,r021,Watermelon Juice,"Fresh watermelon juice, no added sugar",90,true,beverage
+d142,r021,Mosambi Juice,Fresh sweet-lime juice,80,true,beverage
+d143,r021,Veg Club Sandwich,"Triple-decker with veggies, cheese and mint chutney, with fries",180,true,snack
+d144,r022,Nalli Nihari,"Slow-cooked mutton shank stew, best with khamiri roti",360,false,main
+d145,r022,Bheja Fry,"Goat brain tossed with onion, tomato and spices",240,false,main
+d146,r022,Chicken Dum Biryani,Slow-cooked rice and chicken with saffron and fried onions,280,false,rice
+d147,r022,Kheema Pav,Spiced minced mutton with buttered pav,160,false,main
+d148,r022,Chicken Changezi,"Chicken in a rich, smoky Old Delhi style gravy",320,false,main
+d149,r022,Mutton Samosa,Thin-crust samosas with spiced mutton mince,40,false,snack
+d150,r022,Shahi Tukda,Fried bread soaked in syrup and topped with rabdi,140,true,dessert
+d151,r023,Mutton Biryani,Layered rice and tender mutton cooked dum style,460,false,rice
+d152,r023,Chicken Dum Biryani,Slow-cooked rice and chicken with saffron and fried onions,380,false,rice
+d153,r023,Veg Dum Biryani,Rice layered with spiced vegetables and paneer,300,true,rice
+d154,r023,Tandoori Chicken (Half),Classic chargrilled chicken with mint chutney,380,false,starter
+d155,r023,Paneer Tikka,Chargrilled paneer cubes marinated in spiced yoghurt,320,true,starter
+d156,r023,Malai Kofta,Paneer and potato dumplings in a creamy gravy,340,true,main
+d157,r023,Malpua with Rabdi,Sweet fried pancakes with thickened milk,200,true,dessert
+d158,r024,Kanda Bhaji with Chutneys,Crisp onion fritters with three chutneys,380,true,starter
+d159,r024,Egg Kejriwal,Cheese toast topped with a fried egg and green chilli,420,false,breakfast
+d160,r024,Kathal Biryani,Dum biryani made with spiced raw jackfruit,880,true,rice
+d161,r024,Goan Sausage Pao,Spicy chorizo-style sausage masala with soft pao,670,false,main
+d162,r024,Laal Maas,Fiery Rajasthani mutton curry with red chillies,1090,false,main
+d163,r024,Prawn Balchao,"Tangy, spicy Goan prawn pickle-curry",1010,false,seafood
+d164,r024,Malai Kulfi,Traditional slow-set milk ice cream with pistachio,290,true,dessert
+d165,r025,Avocado Toast,"Sourdough with smashed avocado, chilli flakes and seeds",520,true,breakfast
+d166,r025,Shakshuka,Eggs poached in spiced tomato and pepper sauce with bread,550,false,breakfast
+d167,r025,Quinoa Garden Salad,"Quinoa, cucumber, cherry tomato, feta and lemon dressing",440,true,salad
+d168,r025,Pesto Chicken Pasta,"Fusilli with basil pesto, grilled chicken and pine nuts",610,false,pizza_pasta
+d169,r025,Wild Mushroom Risotto,Creamy arborio rice with mushrooms and parmesan,700,true,main
+d170,r025,New York Cheesecake,Baked cream-cheese cake on a biscuit base,440,true,dessert
+d171,r025,Cappuccino,Espresso with steamed milk and foam,230,true,beverage
+d172,r026,Tandoori Chicken (Half),Classic chargrilled chicken with mint chutney,550,false,starter
+d173,r026,Paneer Tikka,Chargrilled paneer cubes marinated in spiced yoghurt,460,true,starter
+d174,r026,Dal Makhani,Black lentils slow-cooked with butter and cream,460,true,main
+d175,r026,Butter Chicken,Tandoori chicken in a buttery tomato gravy,610,false,main
+d176,r026,Chicken Dum Biryani,Slow-cooked rice and chicken with saffron and fried onions,550,false,rice
+d177,r026,Butter Naan,Tandoor-baked naan brushed with butter,100,true,bread
+d178,r026,Rasmalai (2 pcs),Soft paneer discs in saffron milk,170,true,dessert
+d179,r027,Sabudana Khichdi,"Sago pearls with peanuts, potato and green chilli",80,true,breakfast
+d180,r027,Sabudana Vada,Crisp sago and peanut fritters with curd,80,true,snack
+d181,r027,Misal Pav,"Fiery sprouted-moth curry topped with farsan, with pav",90,true,street_food
+d182,r027,Batata Vada,Spiced potato fritters with green chutney,40,true,street_food
+d183,r027,Piyush,Creamy shrikhand and buttermilk drink,60,true,beverage
+d184,r027,Kokum Sharbat,Sweet-sour kokum cooler,40,true,beverage
+d185,r028,Misal Pav,"Fiery sprouted-moth curry topped with farsan, with pav",90,true,street_food
+d186,r028,Thalipeeth,Multigrain flatbread with white butter,90,true,breakfast
+d187,r028,Kothimbir Vadi,Crisp coriander and gram-flour squares,80,true,starter
+d188,r028,Puran Poli,Sweet lentil-stuffed flatbread with ghee,90,true,dessert
+d189,r028,Ukadiche Modak,Steamed rice dumplings with coconut-jaggery filling,110,true,dessert
+d190,r028,Amrakhand,Mango-flavoured shrikhand,90,true,dessert
+d191,r028,Piyush,Creamy shrikhand and buttermilk drink,60,true,beverage
+d192,r029,Batata Vada,Spiced potato fritters with green chutney,40,true,street_food
+d193,r029,Kanda Poha,"Flattened rice with onion, peanuts and lemon",50,true,breakfast
+d194,r029,Maharashtrian Veg Thali,"Bhaji, usal, varan-bhaat, chapati, koshimbir and sweet",210,true,thali
+d195,r029,Zunka Bhakri,Spiced gram-flour scramble with jowar bhakri,100,true,main
+d196,r029,Sabudana Khichdi,"Sago pearls with peanuts, potato and green chilli",80,true,breakfast
+d197,r029,Kokum Sharbat,Sweet-sour kokum cooler,40,true,beverage
+d198,r030,Masala Dosa,"Crisp dosa with potato masala, sambar and chutney",90,true,south_indian
+d199,r030,Butter Masala Dosa,Masala dosa roasted with a generous dollop of butter,110,true,south_indian
+d200,r030,Rava Upma,"Semolina cooked with mustard, curry leaves and veggies",70,true,breakfast
+d201,r030,Ven Pongal,"Rice and moong dal with ghee, pepper and cashews",80,true,south_indian
+d202,r030,Rasam Rice,Peppery tomato rasam with steamed rice,100,true,rice
+d203,r030,Filter Coffee,Strong South Indian coffee with frothy milk,40,true,beverage
+d204,r030,Rava Kesari,"Semolina halwa with ghee, saffron and cashews",60,true,dessert
+d205,r031,Idli Sambar,Steamed rice cakes with sambar and coconut chutney,60,true,south_indian
+d206,r031,Medu Vada,Crisp lentil doughnuts with sambar,70,true,south_indian
+d207,r031,Mysore Masala Dosa,Dosa smeared with spicy red chutney and potato masala,100,true,south_indian
+d208,r031,Curd Rice,Cool tempered curd rice with pomegranate,90,true,rice
+d209,r031,Bisi Bele Bath,"Spiced rice, lentils and vegetables Karnataka style",110,true,rice
+d210,r031,Filter Coffee,Strong South Indian coffee with frothy milk,40,true,beverage
+d211,r031,Semiya Payasam,Vermicelli cooked in sweetened milk with cardamom,80,true,dessert
+d212,r032,Punjabi Samosa,Crisp pastry with spiced potato and peas,30,true,snack
+d213,r032,Samosa Pav,Punjabi samosa in pav with chutneys,30,true,street_food
+d214,r032,Samosa Chaat,"Crushed samosa with chole, curd and chutneys",70,true,street_food
+d215,r032,Chole Bhature,Spicy chickpea curry with fluffy fried bhature,150,true,main
+d216,r032,Khasta Kachori,Flaky lentil-stuffed kachori with chutneys,40,true,snack
+d217,r032,Jalebi with Rabdi,Hot crisp jalebis with chilled rabdi,120,true,dessert
+d218,r033,Goan Prawn Curry Rice,Prawns in a tangy coconut curry with rice,650,false,seafood
+d219,r033,Pork Vindaloo,Goan pork curry with vinegar and Kashmiri chillies,650,false,main
+d220,r033,Chicken Xacuti,Chicken in roasted coconut and poppy seed masala,610,false,main
+d221,r033,Mushroom Xacuti,Mushrooms in roasted coconut xacuti masala,460,true,main
+d222,r033,Prawn Rava Fry,Semolina-crusted pan-fried prawns,650,false,seafood
+d223,r033,Bebinca,"Layered Goan dessert of coconut milk, egg yolk and ghee",320,false,dessert
+d224,r033,Goan Sausage Pao,Spicy chorizo-style sausage masala with soft pao,460,false,main
+d225,r034,Chicken Puff,Flaky puff pastry with spiced chicken,60,false,bakery
+d226,r034,Veg Puff,Flaky puff pastry with spiced vegetables,40,true,bakery
+d227,r034,Chicken Club Sandwich,"Triple-decker with grilled chicken, egg, lettuce and fries",280,false,snack
+d228,r034,Glazed Doughnut,Soft ring doughnut with sugar glaze,120,true,bakery
+d229,r034,Chocolate Eclair,Choux pastry with cream and chocolate glaze,160,true,dessert
+d230,r034,Cold Coffee with Ice Cream,Thick blended coffee topped with vanilla ice cream,180,true,beverage
+d231,r034,Cinnamon Roll,Soft roll swirled with cinnamon sugar and glaze,160,true,bakery
+d232,r035,Pani Puri,Crisp puris with tangy mint water and potato,40,true,street_food
+d233,r035,Sev Puri,"Flat puris topped with potato, chutneys and sev",60,true,street_food
+d234,r035,Dahi Puri,"Puris filled with potato, sweet curd and chutneys",70,true,street_food
+d235,r035,Ragda Pattice,Potato patties in white pea curry with chutneys,90,true,street_food
+d236,r035,Pav Bhaji,Buttery mashed vegetable curry with toasted pav,120,true,street_food
+d237,r035,Bhel Puri,"Puffed rice tossed with onion, chutneys and sev",50,true,street_food
+d238,r035,Royal Falooda,"Rose milk with vermicelli, basil seeds and ice cream",150,true,dessert
+d239,r036,Glazed Doughnut,Soft ring doughnut with sugar glaze,90,true,bakery
+d240,r036,Apple Pie,Flaky pastry filled with cinnamon apples,100,true,bakery
+d241,r036,Walnut Brownie,Fudgy chocolate brownie with walnuts,110,true,dessert
+d242,r036,Butter Croissant,Flaky all-butter croissant,120,true,bakery
+d243,r036,Chicken Puff,Flaky puff pastry with spiced chicken,40,false,bakery
+d244,r036,Cinnamon Roll,Soft roll swirled with cinnamon sugar and glaze,120,true,bakery
+d245,r037,Cream of Mushroom Soup,Velvety mushroom soup with garlic bread,320,true,starter
+d246,r037,Wild Mushroom Risotto,Creamy arborio rice with mushrooms and parmesan,700,true,main
+d247,r037,Vegetable Lasagne,"Layered pasta with roasted veggies, tomato and bechamel",610,true,pizza_pasta
+d248,r037,Grilled Basa with Lemon Butter,Grilled fish fillet with lemon butter sauce and greens,670,false,seafood
+d249,r037,Pesto Chicken Pasta,"Fusilli with basil pesto, grilled chicken and pine nuts",610,false,pizza_pasta
+d250,r037,Tiramisu,Coffee-soaked sponge layered with mascarpone cream,460,true,dessert
+d251,r037,Chocolate Lava Cake,Warm chocolate cake with a molten centre and vanilla ice cream,380,true,dessert
+d252,r038,Chicken Dum Biryani,Slow-cooked rice and chicken with saffron and fried onions,380,false,rice
+d253,r038,Mutton Biryani,Layered rice and tender mutton cooked dum style,460,false,rice
+d254,r038,Veg Dum Biryani,Rice layered with spiced vegetables and paneer,300,true,rice
+d255,r038,Butter Chicken,Tandoori chicken in a buttery tomato gravy,420,false,main
+d256,r038,Dal Makhani,Black lentils slow-cooked with butter and cream,320,true,main
+d257,r038,Garlic Naan,Naan topped with garlic and coriander,90,true,bread
+d258,r039,Surmai Thali,"Fried surmai, fish curry, rice, bhakri and sol kadhi",450,false,thali
+d259,r039,Bombil Fry,Bombay duck coated in semolina and fried crisp,280,false,seafood
+d260,r039,Malvani Prawn Curry,Prawns in a spicy coconut Malvani masala,420,false,seafood
+d261,r039,Tisrya Masala,Clams cooked with coconut and Malvani spices,380,false,seafood
+d262,r039,Fish Curry Rice,Homestyle coconut fish curry with steamed rice,320,false,seafood
+d263,r039,Sol Kadhi,Cooling kokum and coconut milk drink,80,true,beverage
+d264,r039,Kombdi Vade,Malvani chicken curry with puffed rice-flour vade,380,false,main
+d265,r040,Cheese Fondue for Two,"Swiss cheese fondue with bread, potatoes and veggies to dip",1300,true,main
+d266,r040,Chicken Steak Sizzler,Grilled chicken steak on a sizzling plate with rice and veggies,750,false,main
+d267,r040,Cottage Cheese Sizzler,"Grilled paneer steak with rice, fries and pepper sauce",670,true,main
+d268,r040,Spaghetti Arrabbiata,Spaghetti in a spicy tomato and garlic sauce,490,true,pizza_pasta
+d269,r040,Cream of Mushroom Soup,Velvety mushroom soup with garlic bread,320,true,starter
+d270,r040,Chocolate Lava Cake,Warm chocolate cake with a molten centre and vanilla ice cream,380,true,dessert
+d271,r040,Lemon Iced Tea,Chilled black tea with lemon and mint,220,true,beverage
+d272,r041,Butter Garlic Crab,"Whole crab tossed in butter, garlic and pepper",1600,false,seafood
+d273,r041,Bombil Fry,Bombay duck coated in semolina and fried crisp,410,false,seafood
+d274,r041,Prawns Koliwada,Crisp batter-fried prawns Koli style,610,false,seafood
+d275,r041,Rava Pomfret Fry,Whole pomfret in spiced semolina crust,750,false,seafood
+d276,r041,Surmai Thali,"Fried surmai, fish curry, rice, bhakri and sol kadhi",650,false,thali
+d277,r041,Tisrya Masala,Clams cooked with coconut and Malvani spices,550,false,seafood
+d278,r041,Sol Kadhi,Cooling kokum and coconut milk drink,120,true,beverage
+d279,r042,Tender Coconut Ice Cream,Fresh tender coconut ice cream,90,true,dessert
+d280,r042,Sitaphal Ice Cream,Custard apple ice cream with real fruit,90,true,dessert
+d281,r042,Roasted Almond Ice Cream,Creamy ice cream with roasted almonds,90,true,dessert
+d282,r042,Alphonso Mango Ice Cream,Ice cream made with Alphonso mango,100,true,dessert
+d283,r042,Kala Jamun Ice Cream,Tangy jamun fruit ice cream,100,true,dessert
+d284,r042,Chikoo Ice Cream,Sapota ice cream,90,true,dessert
+d285,r043,Masala Chai,Milky tea brewed with ginger and cardamom,60,true,beverage
+d286,r043,Bombay Masala Sandwich,"Grilled sandwich with potato, veggies and green chutney",90,true,snack
+d287,r043,Paneer Kathi Roll,Spiced paneer wrapped in a flaky paratha,160,true,street_food
+d288,r043,Chilli Cheese Toast,Toasted bread with melted cheese and green chilli,180,true,snack
+d289,r043,Quinoa Garden Salad,"Quinoa, cucumber, cherry tomato, feta and lemon dressing",300,true,salad
+d290,r043,Cold Coffee with Ice Cream,Thick blended coffee topped with vanilla ice cream,180,true,beverage
+d291,r043,Walnut Brownie,Fudgy chocolate brownie with walnuts,150,true,dessert
+d292,r044,Masala Omelette with Toast,"Fluffy omelette with onion, tomato and chilli",180,false,breakfast
+d293,r044,Pancakes with Maple Syrup,Stack of fluffy pancakes with butter and maple syrup,280,true,breakfast
+d294,r044,Classic Chicken Burger,"Crumb-fried chicken patty, lettuce, mayo and fries",300,false,snack
+d295,r044,Loaded Nachos,"Corn chips with beans, cheese sauce, salsa and jalapenos",300,true,starter
+d296,r044,Grilled Chicken Caesar Salad,"Romaine, grilled chicken, parmesan and garlic croutons",340,false,salad
+d297,r044,Hot Chocolate,Rich cocoa with steamed milk and whipped cream,200,true,beverage
+d298,r044,Cappuccino,Espresso with steamed milk and foam,160,true,beverage
+d299,r045,Veg Hakka Noodles,Wok-tossed noodles with crunchy vegetables,380,true,rice
+d300,r045,Schezwan Fried Rice,Fried rice in fiery schezwan sauce,410,true,rice
+d301,r045,Chilli Chicken,"Crisp chicken tossed with chillies, onion and peppers",490,false,starter
+d302,r045,Veg Manchurian Gravy,Vegetable balls in a soy-garlic gravy,410,true,main
+d303,r045,Chicken Manchow Soup,Spicy chicken soup with crisp fried noodles,320,false,starter
+d304,r045,Chilli Paneer Dry,"Paneer tossed with chillies, peppers and soy",440,true,starter
+d305,r045,Honey Noodles with Ice Cream,Crisp noodles in honey and sesame with vanilla ice cream,320,true,dessert
+d306,r045,American Chopsuey,Crispy noodles with sweet-sour chicken sauce and a fried egg,460,false,rice
+d307,r046,Tamatar Shorba,Spiced tomato broth with a hint of cumin,260,true,starter
+d308,r046,Paneer Tikka,Chargrilled paneer cubes marinated in spiced yoghurt,460,true,starter
+d309,r046,Galouti Kebab,Melt-in-the-mouth mutton kebabs on saffron sheermal,670,false,starter
+d310,r046,Laal Maas,Fiery Rajasthani mutton curry with red chillies,750,false,main
+d311,r046,Malai Kofta,Paneer and potato dumplings in a creamy gravy,490,true,main
+d312,r046,Kathal Biryani,Dum biryani made with spiced raw jackfruit,610,true,rice
+d313,r046,Mango Lassi,Yoghurt blended with Alphonso mango,190,true,beverage
+d314,r047,Pav Bhaji,Buttery mashed vegetable curry with toasted pav,160,true,street_food
+d315,r047,Masala Dosa,"Crisp dosa with potato masala, sambar and chutney",120,true,south_indian
+d316,r047,Mysore Masala Dosa,Dosa smeared with spicy red chutney and potato masala,140,true,south_indian
+d317,r047,Cottage Cheese Sizzler,"Grilled paneer steak with rice, fries and pepper sauce",460,true,main
+d318,r047,Bombay Masala Sandwich,"Grilled sandwich with potato, veggies and green chutney",90,true,snack
+d319,r047,Mango Lassi,Yoghurt blended with Alphonso mango,130,true,beverage
+d320,r047,Cold Coffee with Ice Cream,Thick blended coffee topped with vanilla ice cream,180,true,beverage
+d321,r048,Gulab Jamun (2 pcs),Warm milk dumplings in rose syrup,60,true,dessert
+d322,r048,Rasmalai (2 pcs),Soft paneer discs in saffron milk,90,true,dessert
+d323,r048,Kaju Katli (250 g),Cashew fudge with silver leaf,260,true,dessert
+d324,r048,Jalebi with Rabdi,Hot crisp jalebis with chilled rabdi,120,true,dessert
+d325,r048,Samosa Chaat,"Crushed samosa with chole, curd and chutneys",70,true,street_food
+d326,r048,Dal Pakwan,Sindhi breakfast of crisp pakwan with chana dal,120,true,breakfast
+d327,r048,Punjabi Samosa,Crisp pastry with spiced potato and peas,30,true,snack
+d328,r049,Vada Pav,Spiced potato fritter in pav with garlic chutney,20,true,street_food
+d329,r049,Cheese Burst Vada Pav,Vada pav with a molten cheese centre,40,true,street_food
+d330,r049,Schezwan Cheese Vada Pav,Vada pav with schezwan chutney and cheese,40,true,street_food
+d331,r049,Veg Frankie,Spiced potato roll with tangy masala and onions,60,true,street_food
+d332,r049,Bombay Masala Sandwich,"Grilled sandwich with potato, veggies and green chutney",70,true,snack
+d333,r049,Cold Coffee with Ice Cream,Thick blended coffee topped with vanilla ice cream,140,true,beverage
+d334,r050,Veg Barbeque Platter,"Paneer, mushroom, pineapple and potato skewers",940,true,starter
+d335,r050,Non-veg Barbeque Platter,"Chicken, fish, prawn and mutton skewers",1230,false,starter
+d336,r050,Cajun Spiced Potatoes,Crisp baby potatoes with cajun spice and mayo,320,true,starter
+d337,r050,Tandoori Prawns,Jumbo prawns marinated and chargrilled,750,false,seafood
+d338,r050,Grilled Pineapple,Cinnamon-dusted pineapple from the grill,260,true,dessert
+d339,r050,Dal Makhani,Black lentils slow-cooked with butter and cream,460,true,main
+d340,r050,Malpua with Rabdi,Sweet fried pancakes with thickened milk,290,true,dessert
+d341,r001,Chicken Noodle Soup,Clear chicken broth with noodles and vegetables,350,false,starter
+d342,r002,Egg Bhurji Pav,Spiced scrambled eggs with buttered pav,160,false,breakfast
+d343,r002,Egg Roll,Egg-fried paratha wrapped around onions and green chutney,120,false,street_food
+d344,r004,Chicken Sweet Corn Soup,Silky corn soup with shredded chicken and egg ribbons,290,false,starter
+d345,r006,Chicken Farcha,Parsi-style egg-battered fried chicken,380,false,starter
+d346,r009,Chicken Stew with Appam,Mild coconut chicken stew with lacy rice appams,550,false,main
+d347,r015,Egg Bhurji Pav,Spiced scrambled eggs with buttered pav,120,false,breakfast
+d348,r022,Mutton Paya Soup,"Slow-simmered trotter broth, warming and rich, with roti",210,false,starter
+d349,r025,Grilled Chicken with Herbed Rice,"Herb-marinated chicken breast, sauteed veggies and herbed rice",610,false,main
+d350,r034,Grilled Chicken Sandwich,"Grilled chicken, cheese and lettuce in toasted brown bread",260,false,snack
+d351,r037,Chicken Noodle Soup,Clear chicken broth with noodles and vegetables,350,false,starter
+d352,r038,Chicken Curry Rice,Homestyle chicken curry with steamed rice,300,false,rice
+d353,r044,Full English Breakfast,"Eggs your way, sausages, bacon, beans, hash brown and toast",420,false,breakfast
+d354,r049,Chicken Frankie,Spiced chicken and onion wrapped in a soft egg roti,100,false,street_food
+d355,r050,Smoky BBQ Chicken Wings,Chargrilled wings glazed with a smoky barbeque sauce,550,false,starter

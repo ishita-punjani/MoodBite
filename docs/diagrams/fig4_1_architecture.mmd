@@ -1,0 +1,33 @@
+%% Figure 4.1: System architecture of MoodBite
+flowchart LR
+  subgraph Device["Android device (Flutter app, light theme)"]
+    UI["Screens: Mood, Restaurants, Ask, Orders, Cart, Profile"]
+    State["State and routing: Riverpod, go_router"]
+    Local["Local services: meal-time notifications, location, simulated tracking"]
+    UI --> State
+    State --> Local
+  end
+
+  subgraph Supabase["Supabase"]
+    Auth["Auth: email OTP and Google"]
+    DB[("Postgres + PostGIS + pgvector<br/>catalogue, orders, RLS")]
+    RPC["SQL functions: recommend_dishes,<br/>place_order, nearest_zone, claim_ai_call"]
+    Edge["Edge Function: recommend<br/>mood and chat modes"]
+    RPC --- DB
+    Edge --> RPC
+  end
+
+  Gemini["Gemini API<br/>(called only from the Edge Function)"]
+  Google["Google sign-in"]
+  OSM["OpenStreetMap tiles"]
+  OSRM["OSRM demo server<br/>(route)"]
+
+  State -->|"sign in"| Auth
+  State -->|"tables, place_order"| DB
+  State -->|"recommend (mood, chat)"| Edge
+  State -.->|"fallback: direct RPC"| RPC
+  Edge -->|"rerank, chat, intent"| Gemini
+  UI -->|"ID token"| Google
+  Google --> Auth
+  Local --> OSM
+  Local --> OSRM

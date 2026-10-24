@@ -1,0 +1,18 @@
+%% Figure 4.3: Recommendation pipeline (mood mode)
+flowchart TD
+  A["User picks a mood<br/>delivery area, diet, optional max price"] --> B["App calls Edge Function 'recommend'"]
+  B --> C{"Signed-in user?<br/>request valid?"}
+  C -->|no| X["Error returned; app falls back to the direct SQL call"]
+  C -->|yes| D["SQL function recommend_dishes"]
+  D --> D1["Hard filters: restaurant open, price cap,<br/>diet (veg / non-veg / any), location inside a Mumbai zone"]
+  D1 --> D2["Candidates: dishes tagged with the mood,<br/>or similar to the mood embedding (threshold 0.60)"]
+  D2 --> D3["score = 0.40 mood_fit + 0.25 semantic_sim<br/>+ 0.15 personalization + 0.20 distance_decay"]
+  D3 --> E["Top 20 candidates"]
+  E --> F{"Daily AI cap not reached<br/>and Gemini key present?"}
+  F -->|no| G["Fallback: top 5 by score, templated reason<br/>(badge: Quick pick)"]
+  F -->|yes| H["One Gemini call: dish id, name, description,<br/>price, mood, rounded distance only"]
+  H --> I{"Valid JSON and every dish id<br/>in the candidate list?"}
+  I -->|no, timeout, 429| G
+  I -->|yes| J["5 picks, one per restaurant where possible,<br/>one-line reason each (badge: AI pick)"]
+  G --> K["Recommendations screen"]
+  J --> K

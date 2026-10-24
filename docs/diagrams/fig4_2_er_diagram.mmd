@@ -1,0 +1,104 @@
+%% Figure 4.2: Entity-relationship diagram of the MoodBite database
+erDiagram
+  AUTH_USERS ||--|| PROFILES : "has"
+  AUTH_USERS ||--o{ ADDRESSES : "saves"
+  AUTH_USERS ||--o{ ORDERS : "places"
+  AUTH_USERS ||--o{ RECOMMENDATION_FEEDBACK : "gives"
+  AUTH_USERS ||--o{ AI_USAGE : "uses"
+  ZONES ||--o{ ADDRESSES : "locates"
+  ADDRESSES |o--o{ ORDERS : "delivers to"
+  RESTAURANTS ||--o{ DISHES : "serves"
+  RESTAURANTS ||--o{ ORDERS : "receives"
+  ORDERS ||--|{ ORDER_ITEMS : "contains"
+  DISHES ||--o{ ORDER_ITEMS : "ordered as"
+  DISHES ||--o{ DISH_MOODS : "tagged"
+  MOODS ||--o{ DISH_MOODS : "tags"
+  DISHES ||--o{ RECOMMENDATION_FEEDBACK : "about"
+  MOODS ||--o{ RECOMMENDATION_FEEDBACK : "for"
+
+  PROFILES {
+    uuid id PK
+    text full_name
+    text phone
+    boolean is_veg
+    text_array liked_cuisines
+    int default_max_price
+  }
+  ADDRESSES {
+    uuid id PK
+    uuid user_id FK
+    text label
+    text line1
+    double lat
+    double lng
+    text zone_id FK
+  }
+  ZONES {
+    text id PK
+    text name
+    double lat
+    double lng
+  }
+  RESTAURANTS {
+    text id PK
+    text name
+    text area
+    text address
+    double lat
+    double lng
+    text_array cuisine
+    smallint price_level
+    boolean is_open
+    boolean coords_verified
+  }
+  DISHES {
+    text id PK
+    text restaurant_id FK
+    text name
+    text description
+    int price_inr
+    boolean is_veg
+    text category
+    vector embedding
+  }
+  MOODS {
+    text id PK
+    text label
+    text emoji
+    text description
+    vector embedding
+  }
+  DISH_MOODS {
+    text dish_id PK
+    text mood_id PK
+    real weight
+  }
+  ORDERS {
+    uuid id PK
+    uuid user_id FK
+    text restaurant_id FK
+    uuid address_id FK
+    double delivery_lat
+    double delivery_lng
+    int total
+    text status
+    timestamptz placed_at
+  }
+  ORDER_ITEMS {
+    uuid order_id PK
+    text dish_id PK
+    int qty
+    int price_at_order
+  }
+  RECOMMENDATION_FEEDBACK {
+    bigint id PK
+    uuid user_id FK
+    text dish_id FK
+    text mood_id FK
+    text action
+  }
+  AI_USAGE {
+    uuid user_id PK
+    date day PK
+    int calls
+  }

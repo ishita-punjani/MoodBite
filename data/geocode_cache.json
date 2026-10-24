@@ -1,0 +1,1127 @@
+{
+ "Leopold Cafe, Colaba, Mumbai": [
+  {
+   "place_id": 248709218,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40387597,
+   "lat": "18.9227115",
+   "lon": "72.8317630",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 0.34566654831183224,
+   "addresstype": "amenity",
+   "name": "Cafe Leopold",
+   "display_name": "Cafe Leopold, Nowroji Ferdonji Street, Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",
+   "boundingbox": [
+    "18.9225992",
+    "18.9228275",
+    "72.8316176",
+    "72.8319106"
+   ]
+  }
+ ],
+ "Bademiya, Colaba, Mumbai": [
+  {
+   "place_id": 245734920,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3408261570,
+   "lat": "18.9221604",
+   "lon": "72.8319798",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 0.11734328469919902,
+   "addresstype": "amenity",
+   "name": "Bademiya Restaurant",
+   "display_name": "Bademiya Restaurant, 19-A, Nowroji Ferdonji Street, Apollo Bandar, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",
+   "boundingbox": [
+    "18.9221104",
+    "18.9222104",
+    "72.8319298",
+    "72.8320298"
+   ]
+  },
+  {
+   "place_id": 248807701,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 488208617,
+   "lat": "18.9231497",
+   "lon": "72.8325111",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 0.11734328469919902,
+   "addresstype": "amenity",
+   "name": "Bademiya Seekh Kebab Stall",
+   "display_name": "Bademiya Seekh Kebab Stall, Tullock Road, Apollo Bandar, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400005, India",
+   "boundingbox": [
+    "18.9230997",
+    "18.9231997",
+    "72.8324611",
+    "72.8325611"
+   ]
+  }
+ ],
+ "Kailash Parbat, Colaba, Mumbai": [
+  {
+   "place_id": 245586422,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1973521830,
+   "lat": "18.9186498",
+   "lon": "72.8284971",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Kailash Parbat",
+   "display_name": "Kailash Parbat, First Pasta Lane, Shiv Shakti Nagar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",
+   "boundingbox": [
+    "18.9185998",
+    "18.9186998",
+    "72.8284471",
+    "72.8285471"
+   ]
+  }
+ ],
+ "Ling's Pavilion, Colaba, Mumbai": [
+  {
+   "place_id": 249241391,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5300321221,
+   "lat": "18.9236808",
+   "lon": "72.8324278",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Ling's Pavilion",
+   "display_name": "Ling's Pavilion, 19/21, Mahakavi Bhushan Road (Lansdowne Road), Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",
+   "boundingbox": [
+    "18.9236308",
+    "18.9237308",
+    "72.8323778",
+    "72.8324778"
+   ]
+  }
+ ],
+ "Theobroma, Colaba, Mumbai": [
+  {
+   "place_id": 248837468,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1544430251,
+   "lat": "18.9192171",
+   "lon": "72.8292274",
+   "category": "shop",
+   "type": "pastry",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "shop",
+   "name": "Theobroma",
+   "display_name": "Theobroma, Nanabhai Moos Marg (Upper Colaba Road), Shiv Shakti Nagar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",
+   "boundingbox": [
+    "18.9191671",
+    "18.9192671",
+    "72.8291774",
+    "72.8292774"
+   ]
+  }
+ ],
+ "Britannia & Co., Fort, Mumbai": [
+  {
+   "place_id": 248699612,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4294810192,
+   "lat": "18.9344727",
+   "lon": "72.8403579",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 4.773556115048474e-05,
+   "addresstype": "amenity",
+   "name": "Britannia & Co. Restaurant",
+   "display_name": "Britannia & Co. Restaurant, 11, Shiv Sagar Ram Gulam Marg, Ballard Estate, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400038, India",
+   "boundingbox": [
+    "18.9344227",
+    "18.9345227",
+    "72.8403079",
+    "72.8404079"
+   ]
+  }
+ ],
+ "Yazdani Bakery, Fort, Mumbai": [
+  {
+   "place_id": 426116202,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14100628923,
+   "lat": "18.9331806",
+   "lon": "72.8336019",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "shop",
+   "name": "Yazdani Bakery",
+   "display_name": "Yazdani Bakery, Cawasji Patel Street, Bora Bazaar, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",
+   "boundingbox": [
+    "18.9331306",
+    "18.9332306",
+    "72.8335519",
+    "72.8336519"
+   ]
+  }
+ ],
+ "Trishna, Fort, Mumbai": [
+  {
+   "place_id": 245640283,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 858938542,
+   "lat": "18.9286576",
+   "lon": "72.8323932",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Trishna",
+   "display_name": "Trishna, Rope Walk Street, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400032, India",
+   "boundingbox": [
+    "18.9286076",
+    "18.9287076",
+    "72.8323432",
+    "72.8324432"
+   ]
+  }
+ ],
+ "Mahesh Lunch Home, Fort, Mumbai": [
+  {
+   "place_id": 248936940,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 662459670,
+   "lat": "18.9340269",
+   "lon": "72.8336071",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Mahesh Lunch Home",
+   "display_name": "Mahesh Lunch Home, Cawasji Patel Street, Bora Bazaar, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",
+   "boundingbox": [
+    "18.9339769",
+    "18.9340769",
+    "72.8335571",
+    "72.8336571"
+   ]
+  }
+ ],
+ "Khyber, Fort, Mumbai": [
+  {
+   "place_id": 249556211,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11964902109,
+   "lat": "18.9283232",
+   "lon": "72.8316572",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Khyber",
+   "display_name": "Khyber, Kaikhushru Dubash Marg, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400001, India",
+   "boundingbox": [
+    "18.9282732",
+    "18.9283732",
+    "72.8316072",
+    "72.8317072"
+   ]
+  }
+ ],
+ "Burma Burma, Fort, Mumbai": [],
+ "Burma Burma, Mumbai": [
+  {
+   "place_id": 423984456,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14039202220,
+   "lat": "19.1201731",
+   "lon": "72.9070796",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Burma Burma",
+   "display_name": "Burma Burma, Lake Blvd Road, Hiranandani Gardens, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+   "boundingbox": [
+    "19.1201231",
+    "19.1202231",
+    "72.9070296",
+    "72.9071296"
+   ]
+  }
+ ],
+ "Pancham Puriwala, Fort, Mumbai": [
+  {
+   "place_id": 248662987,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6155507386,
+   "lat": "18.9382690",
+   "lon": "72.8356327",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Pancham Puriwala",
+   "display_name": "Pancham Puriwala, Perin Nariman Street, Bora Bazaar, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400038, India",
+   "boundingbox": [
+    "18.9382190",
+    "18.9383190",
+    "72.8355827",
+    "72.8356827"
+   ]
+  }
+ ],
+ "Pizza By The Bay, Churchgate, Mumbai": [
+  {
+   "place_id": 248807073,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4678083190,
+   "lat": "18.9332945",
+   "lon": "72.8238813",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Pizza By The Bay",
+   "display_name": "Pizza By The Bay, 143 Soona Mahal, Veer Nariman Road, Churchgate, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400020, India",
+   "boundingbox": [
+    "18.9332445",
+    "18.9333445",
+    "72.8238313",
+    "72.8239313"
+   ]
+  }
+ ],
+ "Hotel Status, Churchgate, Mumbai": [],
+ "Hotel Status, Mumbai": [],
+ "Kyani & Co., Girgaon, Mumbai": [],
+ "Kyani & Co., Mumbai": [
+  {
+   "place_id": 425181039,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9574663630,
+   "lat": "18.9441069",
+   "lon": "72.8287886",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Kyani & Co.",
+   "display_name": "Kyani & Co., 657, Jagannath Shankarsheth Marg, Navjeevan Wadi, Kalbadevi, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400020, India",
+   "boundingbox": [
+    "18.9440569",
+    "18.9441569",
+    "72.8287386",
+    "72.8288386"
+   ]
+  }
+ ],
+ "Shree Thaker Bhojanalay, Girgaon, Mumbai": [],
+ "Shree Thaker Bhojanalay, Mumbai": [
+  {
+   "place_id": 248712233,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4658636589,
+   "lat": "18.9511000",
+   "lon": "72.8282804",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Shree Thaker Bhojanalay",
+   "display_name": "Shree Thaker Bhojanalay, Dadiseth Agyari Lane, Navi Wadi, Kalbadevi, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400002, India",
+   "boundingbox": [
+    "18.9510500",
+    "18.9511500",
+    "72.8282304",
+    "72.8283304"
+   ]
+  }
+ ],
+ "Soam, Girgaon, Mumbai": [],
+ "Soam, Mumbai": [
+  {
+   "place_id": 250295396,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6494986078,
+   "lat": "18.9574682",
+   "lon": "72.8089759",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Soam Restaurant",
+   "display_name": "Soam Restaurant, Kulpati KM Munshi Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India",
+   "boundingbox": [
+    "18.9574182",
+    "18.9575182",
+    "72.8089259",
+    "72.8090259"
+   ]
+  }
+ ],
+ "Jaffer Bhai's Delhi Darbar, Girgaon, Mumbai": [],
+ "Jaffer Bhai's Delhi Darbar, Mumbai": [],
+ "Swati Snacks, Tardeo, Mumbai": [
+  {
+   "place_id": 249439612,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4657376591,
+   "lat": "18.9664905",
+   "lon": "72.8134201",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Swati snacks",
+   "display_name": "Swati snacks, Javji Dadaji Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400007, India",
+   "boundingbox": [
+    "18.9664405",
+    "18.9665405",
+    "72.8133701",
+    "72.8134701"
+   ]
+  }
+ ],
+ "Sardar Pav Bhaji, Tardeo, Mumbai": [],
+ "Sardar Pav Bhaji, Mumbai": [],
+ "Haji Ali Juice Centre, Tardeo, Mumbai": [],
+ "Haji Ali Juice Centre, Mumbai": [
+  {
+   "place_id": 249152526,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11298645303,
+   "lat": "19.0656484",
+   "lon": "72.8310595",
+   "category": "amenity",
+   "type": "ice_cream",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Haji Ali Juice Centre",
+   "display_name": "Haji Ali Juice Centre, Padmashree Mohammed Rafi Marg (16th Road), Pali Village, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0655984",
+    "19.0656984",
+    "72.8310095",
+    "72.8311095"
+   ]
+  }
+ ],
+ "Noor Mohammadi Hotel, Byculla, Mumbai": [],
+ "Noor Mohammadi Hotel, Mumbai": [
+  {
+   "place_id": 246851613,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5221682037,
+   "lat": "18.9578129",
+   "lon": "72.8322448",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Noor Mohammadi Hotel",
+   "display_name": "Noor Mohammadi Hotel, J.J. Flyover, Khadak, Dongri, B Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400003, India",
+   "boundingbox": [
+    "18.9577629",
+    "18.9578629",
+    "72.8321948",
+    "72.8322948"
+   ]
+  }
+ ],
+ "Persian Darbar, Byculla, Mumbai": [],
+ "Persian Darbar, Mumbai": [
+  {
+   "place_id": 246857201,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12853058852,
+   "lat": "19.0601764",
+   "lon": "72.8367356",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Persian Darbar",
+   "display_name": "Persian Darbar, Linking Road, Linking Road Shopping area, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0601264",
+    "19.0602264",
+    "72.8366856",
+    "72.8367856"
+   ]
+  },
+  {
+   "place_id": 251172395,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11464621028,
+   "lat": "19.1076768",
+   "lon": "72.8833929",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Persian Darbar",
+   "display_name": "Persian Darbar, Mathuradas Vasanji Road (Andheri Kurla Road), Chimatpada, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India",
+   "boundingbox": [
+    "19.1076268",
+    "19.1077268",
+    "72.8833429",
+    "72.8834429"
+   ]
+  },
+  {
+   "place_id": 250362446,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13510320699,
+   "lat": "19.1327471",
+   "lon": "72.8299108",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Persian Darbar",
+   "display_name": "Persian Darbar, RTO Road, Bhudargarh Colony, Dadabhai Naoroji Nagar, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 402205, India",
+   "boundingbox": [
+    "19.1326971",
+    "19.1327971",
+    "72.8298608",
+    "72.8299608"
+   ]
+  }
+ ],
+ "The Bombay Canteen, Lower Parel, Mumbai": [
+  {
+   "place_id": 245574888,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5664893622,
+   "lat": "19.0032336",
+   "lon": "72.8275828",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "The Bombay Canteen",
+   "display_name": "The Bombay Canteen, Senapati Bapat Marg, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",
+   "boundingbox": [
+    "19.0031836",
+    "19.0032836",
+    "72.8275328",
+    "72.8276328"
+   ]
+  }
+ ],
+ "Cafe Zoe, Lower Parel, Mumbai": [],
+ "Cafe Zoe, Mumbai": [],
+ "Copper Chimney, Worli, Mumbai": [],
+ "Copper Chimney, Mumbai": [
+  {
+   "place_id": 246856597,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12926036241,
+   "lat": "19.0609221",
+   "lon": "72.8364284",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Copper Chimney",
+   "display_name": "Copper Chimney, Linking Road, Linking Road Shopping area, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0608721",
+    "19.0609721",
+    "72.8363784",
+    "72.8364784"
+   ]
+  },
+  {
+   "place_id": 250349325,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11372185940,
+   "lat": "19.1009916",
+   "lon": "72.8274055",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Copper Chimney",
+   "display_name": "Copper Chimney, Juhu Tara Road, Ashok Nagar, Juhu, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400054, India",
+   "boundingbox": [
+    "19.1009416",
+    "19.1010416",
+    "72.8273555",
+    "72.8274555"
+   ]
+  },
+  {
+   "place_id": 251183036,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11383276966,
+   "lat": "19.1851499",
+   "lon": "72.8336224",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Copper Chimney",
+   "display_name": "Copper Chimney, Link Road, Malad West, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400064, India",
+   "boundingbox": [
+    "19.1850999",
+    "19.1851999",
+    "72.8335724",
+    "72.8336724"
+   ]
+  }
+ ],
+ "Prakash Shakahari Upahar Kendra, Dadar, Mumbai": [],
+ "Prakash Shakahari Upahar Kendra, Mumbai": [],
+ "Aaswad, Dadar, Mumbai": [
+  {
+   "place_id": 248479128,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4705646991,
+   "lat": "19.0256504",
+   "lon": "72.8405857",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Aaswad",
+   "display_name": "Aaswad, Lady Jamshedji Road, Rao Wadi, Matunga West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",
+   "boundingbox": [
+    "19.0256004",
+    "19.0257004",
+    "72.8405357",
+    "72.8406357"
+   ]
+  }
+ ],
+ "Mama Kane, Dadar, Mumbai": [],
+ "Mama Kane, Mumbai": [],
+ "Cafe Madras, Matunga, Mumbai": [
+  {
+   "place_id": 249184674,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1977933168,
+   "lat": "19.0276726",
+   "lon": "72.8550473",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Cafe Madras",
+   "display_name": "Cafe Madras, Bhau Daji Road, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400019, India",
+   "boundingbox": [
+    "19.0276226",
+    "19.0277226",
+    "72.8549973",
+    "72.8550973"
+   ]
+  }
+ ],
+ "Ram Ashraya, Matunga, Mumbai": [],
+ "Ram Ashraya, Mumbai": [],
+ "Guru Kripa, Sion, Mumbai": [],
+ "Guru Kripa, Mumbai": [
+  {
+   "place_id": 248514383,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 208365406,
+   "lat": "19.1327681",
+   "lon": "72.8280144",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "building",
+   "name": "Guru Kripa",
+   "display_name": "Guru Kripa, Padmashree Karmveer Dadasaheb Gaikwad Road, Bhudargarh Colony, Dadabhai Naoroji Nagar, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 402205, India",
+   "boundingbox": [
+    "19.1326730",
+    "19.1328656",
+    "72.8279240",
+    "72.8281058"
+   ]
+  }
+ ],
+ "Goa Portuguesa, Mahim, Mumbai": [],
+ "Goa Portuguesa, Mumbai": [
+  {
+   "place_id": 249518660,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40739096,
+   "lat": "19.0317940",
+   "lon": "72.8403341",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Goa Portuguesa",
+   "display_name": "Goa Portuguesa, Takandas H. Kataria Marg, Rao Wadi, Matunga West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",
+   "boundingbox": [
+    "19.0317076",
+    "19.0318804",
+    "72.8401878",
+    "72.8404803"
+   ]
+  }
+ ],
+ "Candies, Bandra West, Mumbai": [
+  {
+   "place_id": 248953240,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5246971908,
+   "lat": "19.0495544",
+   "lon": "72.8298692",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Candies",
+   "display_name": "Candies, Nityanand Street, Vaidya Nagar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0495044",
+    "19.0496044",
+    "72.8298192",
+    "72.8299192"
+   ]
+  },
+  {
+   "place_id": 245704900,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6960777256,
+   "lat": "19.0609825",
+   "lon": "72.8268992",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Candies",
+   "display_name": "Candies, St. Andrews Road Extension, Adarsh Nagar, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0609325",
+    "19.0610325",
+    "72.8268492",
+    "72.8269492"
+   ]
+  }
+ ],
+ "Elco Pani Puri Centre, Bandra West, Mumbai": [],
+ "Elco Pani Puri Centre, Mumbai": [],
+ "Hearsch Bakery, Bandra West, Mumbai": [
+  {
+   "place_id": 248761830,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 347146089,
+   "lat": "19.0551689",
+   "lon": "72.8269905",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "shop",
+   "name": "J Hearsch and Co",
+   "display_name": "J Hearsch and Co, Hill Road, Chimbai Village, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0551189",
+    "19.0552189",
+    "72.8269405",
+    "72.8270405"
+   ]
+  }
+ ],
+ "Hearsch Bakery, Mumbai": [
+  {
+   "place_id": 248373730,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 347146089,
+   "lat": "19.0551689",
+   "lon": "72.8269905",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "shop",
+   "name": "J Hearsch and Co",
+   "display_name": "J Hearsch and Co, Hill Road, Chimbai Village, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0551189",
+    "19.0552189",
+    "72.8269405",
+    "72.8270405"
+   ]
+  }
+ ],
+ "Pali Village Cafe, Bandra West, Mumbai": [],
+ "Pali Village Cafe, Mumbai": [],
+ "Lucky Restaurant, Bandra West, Mumbai": [
+  {
+   "place_id": 246307052,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10781543267,
+   "lat": "19.0538947",
+   "lon": "72.8377074",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Lucky",
+   "display_name": "Lucky, Swami Vivekanand Road, Qureshi Nagar Hutment Colony, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0538447",
+    "19.0539447",
+    "72.8376574",
+    "72.8377574"
+   ]
+  }
+ ],
+ "Highway Gomantak, Bandra East, Mumbai": [
+  {
+   "place_id": 248905462,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4659828293,
+   "lat": "19.0567665",
+   "lon": "72.8469954",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Highway Gomantak",
+   "display_name": "Highway Gomantak, Service Road, Gandhi Nagar, Kherwadi, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
+   "boundingbox": [
+    "19.0567165",
+    "19.0568165",
+    "72.8469454",
+    "72.8470454"
+   ]
+  }
+ ],
+ "Out of the Blue, Khar, Mumbai": [
+  {
+   "place_id": 248970888,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2180954109,
+   "lat": "19.0718264",
+   "lon": "72.8254460",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Out of the Blue",
+   "display_name": "Out of the Blue, Khau Galli, Union Park, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400052, India",
+   "boundingbox": [
+    "19.0717764",
+    "19.0718764",
+    "72.8253960",
+    "72.8254960"
+   ]
+  }
+ ],
+ "Gajalee, Vile Parle, Mumbai": [],
+ "Gajalee, Mumbai": [],
+ "Natural Ice Cream, Juhu, Mumbai": [],
+ "Natural Ice Cream, Mumbai": [
+  {
+   "place_id": 248369907,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11055217026,
+   "lat": "19.0423566",
+   "lon": "72.9332659",
+   "category": "amenity",
+   "type": "ice_cream",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Natural ice cream",
+   "display_name": "Natural ice cream, V.N. Purav Marg, TIFR Colony, Mankhurd, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400094, India",
+   "boundingbox": [
+    "19.0423066",
+    "19.0424066",
+    "72.9332159",
+    "72.9333159"
+   ]
+  }
+ ],
+ "Prithvi Cafe, Juhu, Mumbai": [],
+ "Prithvi Cafe, Mumbai": [
+  {
+   "place_id": 248034326,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2391804809,
+   "lat": "19.1062094",
+   "lon": "72.8257203",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Prithvi Café",
+   "display_name": "Prithvi Café, 20, Junki Kutir, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400049, India",
+   "boundingbox": [
+    "19.1061594",
+    "19.1062594",
+    "72.8256703",
+    "72.8257703"
+   ]
+  }
+ ],
+ "Leaping Windows, Andheri West, Mumbai": [],
+ "Leaping Windows, Mumbai": [
+  {
+   "place_id": 248944922,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11020617146,
+   "lat": "19.1387675",
+   "lon": "72.8134014",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Leaping Windows",
+   "display_name": "Leaping Windows, Joy Mukherjee Marg, Mangal Nagar, Sunder Wadi, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400061, India",
+   "boundingbox": [
+    "19.1387175",
+    "19.1388175",
+    "72.8133514",
+    "72.8134514"
+   ]
+  }
+ ],
+ "Mainland China, Andheri East, Mumbai": [],
+ "Mainland China, Mumbai": [
+  {
+   "place_id": 247985733,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2126250492,
+   "lat": "19.1414769",
+   "lon": "72.8323049",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Mainland China",
+   "display_name": "Mainland China, Shalimar Morya Park, Off New Link Road, Adarsh Nagar, Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400053, India",
+   "boundingbox": [
+    "19.1414269",
+    "19.1415269",
+    "72.8322549",
+    "72.8323549"
+   ]
+  }
+ ],
+ "Mirchi and Mime, Powai, Mumbai": [],
+ "Mirchi and Mime, Mumbai": [],
+ "Shiv Sagar, Ghatkopar, Mumbai": [],
+ "Shiv Sagar, Mumbai": [
+  {
+   "place_id": 248597333,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 290112457,
+   "lat": "19.0695202",
+   "lon": "72.8284536",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "building",
+   "name": "Shiv Sagar",
+   "display_name": "Shiv Sagar, 36, Nargis Dutt Road, Pali Hill, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400052, India",
+   "boundingbox": [
+    "19.0693734",
+    "19.0695911",
+    "72.8283786",
+    "72.8285022"
+   ]
+  },
+  {
+   "place_id": 248761117,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 353404241,
+   "lat": "19.1270804",
+   "lon": "72.8468396",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "building",
+   "name": "Shiv Sagar",
+   "display_name": "Shiv Sagar, Swami Vivekanand Road, Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India",
+   "boundingbox": [
+    "19.1269750",
+    "19.1271857",
+    "72.8467885",
+    "72.8468908"
+   ]
+  },
+  {
+   "place_id": 248034363,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 7283106715,
+   "lat": "19.0987991",
+   "lon": "72.8278271",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Shiv Sagar",
+   "display_name": "Shiv Sagar, Juhu Tara Road, Ashok Nagar, Juhu, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400054, India",
+   "boundingbox": [
+    "19.0987491",
+    "19.0988491",
+    "72.8277771",
+    "72.8278771"
+   ]
+  },
+  {
+   "place_id": 248751567,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13097872577,
+   "lat": "19.0679036",
+   "lon": "72.8377151",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Shiv Sagar",
+   "display_name": "Shiv Sagar, Chitrakar Durandhar Road (2nd Road), Linking Road Shopping area, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400052, India",
+   "boundingbox": [
+    "19.0678536",
+    "19.0679536",
+    "72.8376651",
+    "72.8377651"
+   ]
+  },
+  {
+   "place_id": 245726045,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3216970890,
+   "lat": "19.0993472",
+   "lon": "72.8737316",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Shiv Sagar",
+   "display_name": "Shiv Sagar, Private Vehicle Lane, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400099, India",
+   "boundingbox": [
+    "19.0992972",
+    "19.0993972",
+    "72.8736816",
+    "72.8737816"
+   ]
+  }
+ ],
+ "Jhama Sweets, Chembur, Mumbai": [
+  {
+   "place_id": 248378693,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12176162197,
+   "lat": "19.0454920",
+   "lon": "72.8941034",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 7.599526970316652e-05,
+   "addresstype": "amenity",
+   "name": "Jhama Sweets",
+   "display_name": "Jhama Sweets, Choitram Gidwani Marg (Kolwada Borla Road), Navjivan Society, Chembur, Deonar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400074, India",
+   "boundingbox": [
+    "19.0454420",
+    "19.0455420",
+    "72.8940534",
+    "72.8941534"
+   ]
+  }
+ ],
+ "Jumboking, Malad, Mumbai": [],
+ "Jumboking, Mumbai": [],
+ "Barbeque Nation, Borivali, Mumbai": [],
+ "Barbeque Nation, Mumbai": []
+}

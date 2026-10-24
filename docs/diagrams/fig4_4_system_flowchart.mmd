@@ -1,0 +1,31 @@
+%% Figure 4.4: System flowchart of MoodBite
+flowchart TD
+  S([Start]) --> L{"Signed in?"}
+  L -->|no| SI["Sign in: email OTP (6 digits) or Google"]
+  SI --> P
+  L -->|yes| P{"Profile complete?"}
+  P -->|no| PF["Profile form: name, mobile, diet, optional max price"]
+  PF --> H
+  P -->|yes| H["Home with bottom tabs:<br/>Mood, Restaurants, Ask, Orders, Cart"]
+  H --> AR["Choose delivery area (Mumbai zones)"]
+  AR --> CH{"What does the user do?"}
+  CH -->|Mood tab| M["Pick a mood, diet, optional max price"]
+  CH -->|Ask tab| Q["Type a message to the food chatbot"]
+  CH -->|Restaurants tab| B["Browse or search restaurants and dishes"]
+  M --> R["Five recommended dishes"]
+  Q --> R
+  B --> MN["Restaurant menu"]
+  R --> AC["Add dish to cart"]
+  MN --> AC
+  AC --> OR{"Cart has another restaurant?"}
+  OR -->|yes| ND["Dialog: Start a new cart?"]
+  ND --> CA["Cart: quantity 1 to 10"]
+  OR -->|no| CA
+  CA --> CO["Checkout: choose or add address"]
+  CO --> ZC{"Address inside a Mumbai zone?"}
+  ZC -->|no| ER["We deliver only in Mumbai; area picker"]
+  ER --> CO
+  ZC -->|yes| PO["place_order (server recomputes total)"]
+  PO --> TR["Demo delivery tracking screen"]
+  TR --> DL["Delivered"]
+  DL --> E([End])

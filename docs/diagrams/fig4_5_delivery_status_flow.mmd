@@ -1,0 +1,12 @@
+%% Figure 4.5: Demo delivery status flow (derived from time since placed_at)
+stateDiagram-v2
+  [*] --> Placed: order placed (0 s)
+  Placed --> Preparing: 10 s
+  Preparing --> PickedUp: 50 s
+  PickedUp --> OnTheWay: 65 s
+  OnTheWay --> Delivered: 165 s (2 min 45 s)
+  Delivered --> [*]
+  note right of OnTheWay
+    Rider marker moves along the OSRM route
+    (straight line if the route is unavailable)
+  end note

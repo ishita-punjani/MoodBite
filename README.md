@@ -10,8 +10,9 @@ Built with Flutter (Android) and Supabase as a mini project at MPSTME, NMIMS Mum
 
 A 40-second screen recording on a physical Android phone (no audio): choosing a delivery area, mood-based recommendations, the chat assistant, checkout, and the simulated delivery tracker. The road route comes from the public OSRM demo server; when it is unavailable the app draws a straight line, as it does in this recording.
 
-https://github.com/user-attachments/assets/b1691f98-c0e5-493d-94a1-b5c6cc5b7cbf
-
+   <div align="center">
+     <video src="[PASTE_THE_LINK_HERE](https://github.com/user-attachments/assets/b1691f98-c0e5-493d-94a1-b5c6cc5b7cbf)" width="320" controls muted></video>
+   </div>
 
 ## Features
 
